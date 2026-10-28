@@ -142,3 +142,7 @@ Para comparar rendimiento, ejecutá `EXPLAIN ANALYZE` sobre las funciones antes 
 - **Sebastian Laguardia** - [GitHub](https://github.com/laguardiia)
 
 > Datos de estudiantes, profesionales y registros 100 % ficticios, generados con fines académicos.
+
+## 📄 Licencia
+
+Distribuido bajo la licencia MIT. 
